@@ -615,7 +615,7 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		background: #df7366;
+		background: #4165dd;  //df7366
 		color: #fff;
 		text-align: center;
 		border-radius: 0.5em;
@@ -629,7 +629,7 @@
 
 		&:hover {
 			color: #fff;
-			background: #ef8376;
+			background: #4165dd;
 		}
 
 		&.alt {
