@@ -1,6 +1,5 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Adam Colvin</h1>
-<h3 align="left">I am an embedded systems developer, doing  electronic and programming  engineering things</h3>
-
+Hello there! I'm Adam.
+I am an embedded systems developer, doing  electronic and programming engineering things.
 
 Portfolio including private projects:
 
